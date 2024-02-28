@@ -22,7 +22,7 @@
 - `rm -rf zxmpl4`
 - `git clone https://github.com/Reza-XD/zxmpl4`
 - `cd zxmpl4`
-- `python VygrFb.py`
+- `python VuFb.py`
      
 
  ```This Tools is Free Enjoy ```</br>
